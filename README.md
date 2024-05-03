@@ -6,12 +6,13 @@ I have made beautiful bill splitting, tip calculating app. No one can work out $
 
 ## What I've learned
 
-* Create Swift Classes.
-* Understand the difference between Classes and Structs.
-* Create multi-screen apps by learning about segues.
-* Learn about advanced features of Optionals, including Optional Binding, Optional Chaining and the Nil Coalescing Operator.
-* Learn to use Color Literals to select colours from a palette.
+* How to create Swift classes.
+* Understand the difference between classes and structs.
+* How to create multi-screen apps by learning about segues.
+* Learn about advanced features of optionals, including optional binding, optional chaining, and the nil coalescing operator.
+* How to use color literals to select colors from a palette.
+
+## Screenshot
+![Up![![Screenshot 2567-05-03 at 15 40 48](https://github.com/Pathompat-m/tipsy/assets/151487556/8bfe6a34-eed2-4b52-a8b2-1a0521958efd) Screenshot 2567-05-03 at 15.40.28.png…]()
 
 >This is a companion project to The App Brewery's Complete App Development Bootcamp.
-
-
