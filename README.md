@@ -13,6 +13,8 @@ I have made beautiful bill splitting, tip calculating app. No one can work out $
 * How to use color literals to select colors from a palette.
 
 ## Screenshot
-![Up![![Screenshot 2567-05-03 at 15 40 48](https://github.com/Pathompat-m/tipsy/assets/151487556/8bfe6a34-eed2-4b52-a8b2-1a0521958efd) Screenshot 2567-05-03 at 15.40.28.png…]()
+![Screenshot 2567-05-03 at 15 40 42](https://github.com/Pathompat-m/tipsy/assets/151487556/6b8b1c32-1586-478a-827f-ab2f8acb8378)
+![Screenshot 2567-05-03 at 15 40 28](https://github.com/Pathompat-m/tipsy/assets/151487556/dbb4071e-b8af-4b0c-bc88-e7cb256e259b)
+![Screenshot 2567-05-03 at 15 40 48](https://github.com/Pathompat-m/tipsy/assets/151487556/717b0c65-8a84-4579-aacd-17d363549d2a)
 
 >This is a companion project to The App Brewery's Complete App Development Bootcamp.
