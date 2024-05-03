@@ -1,8 +1,8 @@
 # Tipsy
 
-## What I've created
+## Overview
 
-I have made beautiful bill splitting, tip calculating app. No one can work out $145.56 split between 5 people with a 20 percent tip. With your very own Tipsy app in hand, I’ll never need to do maths ever again!
+Tipsy simplifies bill-splitting and tip calculation. Whether it's dividing a $145.56 bill among 5 people with a 20 percent tip, Tipsy ensures accurate results every time, sparing users the hassle of manual calculations.
 
 ## What I've learned
 
